@@ -1,6 +1,6 @@
 # Control de versiones con Git & GitHub
 
-**Bootcamp:** *KeepCoding* – Módulo Git & GitHub 
+Módulo Git & GitHub - *KeepCoding*
 
 ----
 
